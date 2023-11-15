@@ -1,0 +1,51 @@
+.header .logo {
+	font-size: larger;
+	background-color: black;
+	color: #fff;
+	padding: 10px;
+}
+
+.header{
+	background-color: #ffc107;
+	overflow: auto;
+}
+
+.header p.title {
+	/* background-color: #e7e7e7; */
+	color: #535353;
+	size: 100px;
+}
+
+.header .nav a {
+	font-size: 16px;
+	color: #787878;
+	padding: 10px;
+	float: left;
+	text-decoration: none;
+}
+
+.header .nav a:hover {
+	color: #333333;
+}
+
+.header .nav p {
+	font-size: 16px;
+	color: #5e5e5e;
+	float: left;
+	margin: 0px;
+	padding: 10px;}
+
+.wrapper heather {
+		background-color: hsl(200, 100%, 50%);
+	}
+
+.header .MMuiToolbar-root {
+		color: #666666;
+		background-color: #aea1ff;
+	}
+
+.header .MuiPaper-root {
+		color: rgba(0, 0, 0, 0.87);
+		transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+		background-color: #fff;
+	}
